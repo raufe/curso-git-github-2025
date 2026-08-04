@@ -1,0 +1,5 @@
+git init . _> cria um repo git na pasta atual
+git status -> verifica status da branch
+git add -> adiciona arquivo para commit
+git commit -m "msg"-> faz o commit do que foi adicionado
+git log -> mostra o histórico dos commits
