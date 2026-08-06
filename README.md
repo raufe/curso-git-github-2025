@@ -5,3 +5,7 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 Vai ser massa!
 
 Iremos também ver como usar VSCode junto com Git.
+
+Confira tudo no nosso YouTube. É grátis! Segue o link:
+
+https://youtube.com/teomwwhy
