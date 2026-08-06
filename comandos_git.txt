@@ -1,8 +1,8 @@
-git init . _> cria um repo git na pasta atual
-git status -> verifica status da branch
-git add -> adiciona arquivo para commit
-git commit -m "msg"-> faz o commit do que foi adicionado
-git log -> mostra o histórico dos commits
+git init . _> Cria um repo git na pasta atual
+git status -> Verifica status da branch
+git add -> Adiciona arquivo para commit
+git commit -m "msg"-> Faz o commit do que foi adicionado
+git log -> Mostra o histórico dos commits
 
 
 ## FLUXO DE TRABALHO
