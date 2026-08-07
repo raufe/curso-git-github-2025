@@ -9,3 +9,5 @@ Iremos também ver como usar VSCode junto com Git.
 Confira tudo no nosso YouTube. É grátis! Segue o link:
 
 https://youtube.com/teomwwhy
+
+Além do nosso Youtube, se liga no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025.
